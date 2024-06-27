@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"ios":{"default":{"projectId":"mynote-auth","appId":"1:134472178945:ios:90cdc34623307dafe98f00","uploadDebugSymbols":false,"fileOutput":"ios/Runner/GoogleService-Info.plist"}},"dart":{"lib/firebase_options.dart":{"projectId":"mynote-auth","configurations":{"ios":"1:134472178945:ios:90cdc34623307dafe98f00"}}}}}}
